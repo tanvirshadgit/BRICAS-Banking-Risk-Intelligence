@@ -1,0 +1,10 @@
+{
+  "transactions": 10000,
+  "accounts": 500,
+  "amount_bdt": 211126086.31,
+  "alerts": 420,
+  "alert_rate_pct": 4.2,
+  "statistical_anomalies": 167,
+  "critical_alerts": 28,
+  "high_alerts": 392
+}

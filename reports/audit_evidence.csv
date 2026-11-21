@@ -1,0 +1,421 @@
+transaction_id,timestamp,account_id,region,amount_bdt,risk_score,severity,risk_reasons,review_status
+19,2026-10-04T20:04:00,159,Rajshahi,8302.73,50,HIGH,Frozen account activity,REVIEW_REQUIRED
+20,2026-10-22T05:42:29,159,Rajshahi,105820.41,50,HIGH,Frozen account activity,REVIEW_REQUIRED
+22,2026-10-07T15:51:47,363,Rajshahi,12251.55,50,HIGH,Frozen account activity,REVIEW_REQUIRED
+25,2026-10-08T15:16:45,189,Dhaka,5073.09,50,HIGH,Frozen account activity,REVIEW_REQUIRED
+41,2026-10-29T10:52:40,299,Khulna,219341.61,40,HIGH,"High-value transaction (>= BDT 200,000)",REVIEW_REQUIRED
+43,2026-10-11T10:09:44,182,Rajshahi,21292.79,50,HIGH,Frozen account activity,REVIEW_REQUIRED
+49,2026-10-09T10:23:21,182,Rajshahi,2072.18,50,HIGH,Frozen account activity,REVIEW_REQUIRED
+83,2026-10-23T12:51:13,189,Dhaka,8300.92,50,HIGH,Frozen account activity,REVIEW_REQUIRED
+103,2026-10-26T21:54:06,20,Chattogram,296663.94,55,HIGH,"High-value transaction (>= BDT 200,000); Unusual transaction amount (robust z-score)",REVIEW_REQUIRED
+112,2026-10-10T16:43:29,312,Khulna,28684.11,50,HIGH,Frozen account activity,REVIEW_REQUIRED
+142,2026-10-21T05:20:05,199,Dhaka,275402.34,40,HIGH,"High-value transaction (>= BDT 200,000)",REVIEW_REQUIRED
+156,2026-10-22T21:35:58,199,Dhaka,401989.62,55,HIGH,"High-value transaction (>= BDT 200,000); Unusual transaction amount (robust z-score)",REVIEW_REQUIRED
+186,2026-10-07T07:50:38,338,Dhaka,481320.45,55,HIGH,"High-value transaction (>= BDT 200,000); Unusual transaction amount (robust z-score)",REVIEW_REQUIRED
+211,2026-10-26T03:45:09,358,Chattogram,263225.72,40,HIGH,"High-value transaction (>= BDT 200,000)",REVIEW_REQUIRED
+212,2026-10-13T14:34:23,314,Khulna,3912.49,50,HIGH,Frozen account activity,REVIEW_REQUIRED
+252,2026-10-18T18:50:00,26,Rajshahi,476310.56,75,CRITICAL,"High-value transaction (>= BDT 200,000); Repeated high-value transactions on same day; Unusual transaction amount (robust z-score)",REVIEW_REQUIRED
+273,2026-10-05T03:58:51,80,Dhaka,262702.86,40,HIGH,"High-value transaction (>= BDT 200,000)",REVIEW_REQUIRED
+283,2026-10-26T10:16:39,159,Rajshahi,27800.22,50,HIGH,Frozen account activity,REVIEW_REQUIRED
+379,2026-10-03T05:21:46,465,Rajshahi,389798.44,55,HIGH,"High-value transaction (>= BDT 200,000); Unusual transaction amount (robust z-score)",REVIEW_REQUIRED
+387,2026-10-05T06:33:07,314,Khulna,22106.02,50,HIGH,Frozen account activity,REVIEW_REQUIRED
+419,2026-10-19T02:28:38,76,Khulna,220.08,45,HIGH,Pending KYC; Unusual transaction amount (robust z-score),REVIEW_REQUIRED
+459,2026-10-25T04:05:39,339,Dhaka,7921.59,50,HIGH,Frozen account activity,REVIEW_REQUIRED
+499,2026-10-11T11:09:11,308,Chattogram,13664.9,50,HIGH,Frozen account activity,REVIEW_REQUIRED
+594,2026-10-16T02:06:54,169,Rajshahi,439166.27,55,HIGH,"High-value transaction (>= BDT 200,000); Unusual transaction amount (robust z-score)",REVIEW_REQUIRED
+637,2026-10-21T23:33:01,159,Rajshahi,41230.44,50,HIGH,Frozen account activity,REVIEW_REQUIRED
+680,2026-10-19T08:05:08,44,Dhaka,279824.23,40,HIGH,"High-value transaction (>= BDT 200,000)",REVIEW_REQUIRED
+687,2026-10-24T12:31:31,311,Khulna,5207.78,50,HIGH,Frozen account activity,REVIEW_REQUIRED
+696,2026-10-30T04:56:07,267,Rajshahi,455708.61,55,HIGH,"High-value transaction (>= BDT 200,000); Unusual transaction amount (robust z-score)",REVIEW_REQUIRED
+698,2026-10-25T09:18:46,159,Rajshahi,6519.31,50,HIGH,Frozen account activity,REVIEW_REQUIRED
+726,2026-10-23T18:02:06,182,Rajshahi,8145.99,50,HIGH,Frozen account activity,REVIEW_REQUIRED
+738,2026-10-22T01:36:00,182,Rajshahi,12131.79,50,HIGH,Frozen account activity,REVIEW_REQUIRED
+741,2026-10-06T07:50:52,68,Dhaka,405331.3,55,HIGH,"High-value transaction (>= BDT 200,000); Unusual transaction amount (robust z-score)",REVIEW_REQUIRED
+757,2026-10-08T18:25:01,2,Chattogram,478588.19,55,HIGH,"High-value transaction (>= BDT 200,000); Unusual transaction amount (robust z-score)",REVIEW_REQUIRED
+768,2026-10-02T00:08:08,197,Chattogram,437498.21,55,HIGH,"High-value transaction (>= BDT 200,000); Unusual transaction amount (robust z-score)",REVIEW_REQUIRED
+792,2026-10-27T06:58:20,84,Rajshahi,472906.1,55,HIGH,"High-value transaction (>= BDT 200,000); Unusual transaction amount (robust z-score)",REVIEW_REQUIRED
+901,2026-10-30T23:02:30,440,Khulna,242505.86,40,HIGH,"High-value transaction (>= BDT 200,000)",REVIEW_REQUIRED
+955,2026-10-23T22:18:12,311,Khulna,14319.45,50,HIGH,Frozen account activity,REVIEW_REQUIRED
+969,2026-10-06T03:38:17,311,Khulna,3727.61,50,HIGH,Frozen account activity,REVIEW_REQUIRED
+1020,2026-10-14T06:06:01,311,Khulna,2687.29,50,HIGH,Frozen account activity,REVIEW_REQUIRED
+1023,2026-10-06T19:08:32,428,Khulna,451182.06,55,HIGH,"High-value transaction (>= BDT 200,000); Unusual transaction amount (robust z-score)",REVIEW_REQUIRED
+1030,2026-10-03T14:08:24,159,Rajshahi,6060.7,50,HIGH,Frozen account activity,REVIEW_REQUIRED
+1038,2026-10-08T21:36:44,157,Rajshahi,442766.4,55,HIGH,"High-value transaction (>= BDT 200,000); Unusual transaction amount (robust z-score)",REVIEW_REQUIRED
+1065,2026-10-14T19:56:49,348,Khulna,324297.45,85,CRITICAL,"High-value transaction (>= BDT 200,000); Pending KYC; Unusual transaction amount (robust z-score)",REVIEW_REQUIRED
+1081,2026-10-12T14:49:21,189,Dhaka,23561.34,50,HIGH,Frozen account activity,REVIEW_REQUIRED
+1098,2026-10-23T07:08:54,256,Rajshahi,423876.97,85,CRITICAL,"High-value transaction (>= BDT 200,000); Pending KYC; Unusual transaction amount (robust z-score)",REVIEW_REQUIRED
+1115,2026-10-07T19:01:50,182,Rajshahi,1388.04,50,HIGH,Frozen account activity,REVIEW_REQUIRED
+1197,2026-10-22T22:18:02,174,Khulna,381847.83,55,HIGH,"High-value transaction (>= BDT 200,000); Unusual transaction amount (robust z-score)",REVIEW_REQUIRED
+1198,2026-10-01T02:00:51,87,Chattogram,315426.06,55,HIGH,"High-value transaction (>= BDT 200,000); Unusual transaction amount (robust z-score)",REVIEW_REQUIRED
+1216,2026-10-01T12:09:05,308,Chattogram,11603.76,50,HIGH,Frozen account activity,REVIEW_REQUIRED
+1238,2026-10-05T17:05:18,347,Chattogram,458674.78,85,CRITICAL,"High-value transaction (>= BDT 200,000); Pending KYC; Unusual transaction amount (robust z-score)",REVIEW_REQUIRED
+1253,2026-10-06T22:06:54,314,Khulna,1194.51,50,HIGH,Frozen account activity,REVIEW_REQUIRED
+1280,2026-10-23T13:41:37,189,Dhaka,6988.33,50,HIGH,Frozen account activity,REVIEW_REQUIRED
+1297,2026-10-01T14:24:03,159,Rajshahi,4474.11,50,HIGH,Frozen account activity,REVIEW_REQUIRED
+1307,2026-10-10T03:07:01,494,Khulna,395054.67,55,HIGH,"High-value transaction (>= BDT 200,000); Unusual transaction amount (robust z-score)",REVIEW_REQUIRED
+1320,2026-10-20T13:31:47,339,Dhaka,5268.93,50,HIGH,Frozen account activity,REVIEW_REQUIRED
+1325,2026-10-27T19:51:20,159,Rajshahi,238515.25,90,CRITICAL,"High-value transaction (>= BDT 200,000); Frozen account activity",REVIEW_REQUIRED
+1328,2026-10-17T02:07:37,308,Chattogram,5424.43,50,HIGH,Frozen account activity,REVIEW_REQUIRED
+1340,2026-10-11T21:49:08,311,Khulna,13209.9,50,HIGH,Frozen account activity,REVIEW_REQUIRED
+1373,2026-10-26T21:45:21,79,Chattogram,456622.2,55,HIGH,"High-value transaction (>= BDT 200,000); Unusual transaction amount (robust z-score)",REVIEW_REQUIRED
+1379,2026-10-02T03:49:02,192,Rajshahi,330661.26,55,HIGH,"High-value transaction (>= BDT 200,000); Unusual transaction amount (robust z-score)",REVIEW_REQUIRED
+1384,2026-10-10T09:25:11,170,Khulna,230390.82,40,HIGH,"High-value transaction (>= BDT 200,000)",REVIEW_REQUIRED
+1388,2026-10-22T08:28:32,339,Dhaka,24063.28,50,HIGH,Frozen account activity,REVIEW_REQUIRED
+1451,2026-10-11T14:08:47,495,Dhaka,263061.49,40,HIGH,"High-value transaction (>= BDT 200,000)",REVIEW_REQUIRED
+1507,2026-10-12T17:18:06,189,Dhaka,9826.35,50,HIGH,Frozen account activity,REVIEW_REQUIRED
+1513,2026-10-25T07:20:18,237,Chattogram,473453.27,55,HIGH,"High-value transaction (>= BDT 200,000); Unusual transaction amount (robust z-score)",REVIEW_REQUIRED
+1544,2026-10-19T23:10:01,308,Chattogram,25444.05,50,HIGH,Frozen account activity,REVIEW_REQUIRED
+1548,2026-10-18T21:10:18,26,Rajshahi,348580.64,75,CRITICAL,"High-value transaction (>= BDT 200,000); Repeated high-value transactions on same day; Unusual transaction amount (robust z-score)",REVIEW_REQUIRED
+1605,2026-10-27T09:03:56,363,Rajshahi,14624.02,50,HIGH,Frozen account activity,REVIEW_REQUIRED
+1606,2026-10-07T22:51:17,311,Khulna,50546.36,50,HIGH,Frozen account activity,REVIEW_REQUIRED
+1629,2026-10-10T12:44:38,314,Khulna,42947.64,50,HIGH,Frozen account activity,REVIEW_REQUIRED
+1645,2026-10-21T13:03:03,189,Dhaka,21477.3,50,HIGH,Frozen account activity,REVIEW_REQUIRED
+1651,2026-10-20T10:45:10,103,Khulna,369539.36,75,CRITICAL,"High-value transaction (>= BDT 200,000); Repeated high-value transactions on same day; Unusual transaction amount (robust z-score)",REVIEW_REQUIRED
+1715,2026-10-01T14:41:53,182,Rajshahi,10755.95,50,HIGH,Frozen account activity,REVIEW_REQUIRED
+1733,2026-10-20T20:07:57,159,Rajshahi,37349.2,50,HIGH,Frozen account activity,REVIEW_REQUIRED
+1735,2026-10-16T23:48:24,484,Chattogram,406709.48,55,HIGH,"High-value transaction (>= BDT 200,000); Unusual transaction amount (robust z-score)",REVIEW_REQUIRED
+1749,2026-10-24T14:21:18,191,Chattogram,373393.36,55,HIGH,"High-value transaction (>= BDT 200,000); Unusual transaction amount (robust z-score)",REVIEW_REQUIRED
+1758,2026-10-21T21:12:19,415,Chattogram,345160.07,55,HIGH,"High-value transaction (>= BDT 200,000); Unusual transaction amount (robust z-score)",REVIEW_REQUIRED
+1786,2026-10-11T13:56:56,5,Dhaka,347969.08,55,HIGH,"High-value transaction (>= BDT 200,000); Unusual transaction amount (robust z-score)",REVIEW_REQUIRED
+1788,2026-10-28T19:13:23,339,Dhaka,12189.72,50,HIGH,Frozen account activity,REVIEW_REQUIRED
+1801,2026-10-05T15:49:06,337,Chattogram,253289.68,40,HIGH,"High-value transaction (>= BDT 200,000)",REVIEW_REQUIRED
+1827,2026-10-04T20:07:59,65,Khulna,409322.41,55,HIGH,"High-value transaction (>= BDT 200,000); Unusual transaction amount (robust z-score)",REVIEW_REQUIRED
+1870,2026-10-06T21:02:06,82,Khulna,304731.63,55,HIGH,"High-value transaction (>= BDT 200,000); Unusual transaction amount (robust z-score)",REVIEW_REQUIRED
+1871,2026-10-23T03:23:20,289,Dhaka,214982.5,70,CRITICAL,"High-value transaction (>= BDT 200,000); Pending KYC",REVIEW_REQUIRED
+1954,2026-10-25T03:36:16,339,Dhaka,1477.97,50,HIGH,Frozen account activity,REVIEW_REQUIRED
+1955,2026-10-20T09:09:51,189,Dhaka,10361.89,50,HIGH,Frozen account activity,REVIEW_REQUIRED
+1969,2026-10-12T11:36:54,213,Dhaka,200189.56,40,HIGH,"High-value transaction (>= BDT 200,000)",REVIEW_REQUIRED
+2051,2026-10-19T22:12:19,336,Khulna,447088.23,55,HIGH,"High-value transaction (>= BDT 200,000); Unusual transaction amount (robust z-score)",REVIEW_REQUIRED
+2052,2026-10-06T10:20:36,406,Khulna,277050.6,40,HIGH,"High-value transaction (>= BDT 200,000)",REVIEW_REQUIRED
+2104,2026-10-21T09:04:25,301,Chattogram,454022.67,55,HIGH,"High-value transaction (>= BDT 200,000); Unusual transaction amount (robust z-score)",REVIEW_REQUIRED
+2125,2026-10-15T05:10:38,278,Khulna,473862.42,55,HIGH,"High-value transaction (>= BDT 200,000); Unusual transaction amount (robust z-score)",REVIEW_REQUIRED
+2179,2026-10-22T18:37:14,62,Dhaka,377927.45,55,HIGH,"High-value transaction (>= BDT 200,000); Unusual transaction amount (robust z-score)",REVIEW_REQUIRED
+2199,2026-10-23T12:13:36,153,Khulna,358662.98,55,HIGH,"High-value transaction (>= BDT 200,000); Unusual transaction amount (robust z-score)",REVIEW_REQUIRED
+2224,2026-10-24T10:47:25,203,Rajshahi,321365.46,55,HIGH,"High-value transaction (>= BDT 200,000); Unusual transaction amount (robust z-score)",REVIEW_REQUIRED
+2231,2026-10-08T21:44:41,391,Dhaka,276665.73,40,HIGH,"High-value transaction (>= BDT 200,000)",REVIEW_REQUIRED
+2238,2026-10-13T13:07:54,189,Dhaka,23861.07,50,HIGH,Frozen account activity,REVIEW_REQUIRED
+2247,2026-10-14T09:06:32,324,Dhaka,481117.77,55,HIGH,"High-value transaction (>= BDT 200,000); Unusual transaction amount (robust z-score)",REVIEW_REQUIRED
+2252,2026-10-05T08:53:11,300,Khulna,365395.91,55,HIGH,"High-value transaction (>= BDT 200,000); Unusual transaction amount (robust z-score)",REVIEW_REQUIRED
+2255,2026-10-11T19:00:18,182,Rajshahi,14644.89,50,HIGH,Frozen account activity,REVIEW_REQUIRED
+2268,2026-10-28T09:08:03,375,Dhaka,354975.86,55,HIGH,"High-value transaction (>= BDT 200,000); Unusual transaction amount (robust z-score)",REVIEW_REQUIRED
+2272,2026-10-05T23:11:37,312,Khulna,10765.64,50,HIGH,Frozen account activity,REVIEW_REQUIRED
+2273,2026-10-18T23:06:22,333,Dhaka,342157.42,55,HIGH,"High-value transaction (>= BDT 200,000); Unusual transaction amount (robust z-score)",REVIEW_REQUIRED
+2299,2026-10-23T20:02:12,308,Chattogram,14518.87,50,HIGH,Frozen account activity,REVIEW_REQUIRED
+2305,2026-10-20T05:38:14,22,Chattogram,213205.04,40,HIGH,"High-value transaction (>= BDT 200,000)",REVIEW_REQUIRED
+2306,2026-10-01T09:20:14,429,Rajshahi,264906.68,40,HIGH,"High-value transaction (>= BDT 200,000)",REVIEW_REQUIRED
+2316,2026-10-27T07:11:49,159,Rajshahi,6380.67,50,HIGH,Frozen account activity,REVIEW_REQUIRED
+2340,2026-10-03T14:30:06,373,Chattogram,394401.13,55,HIGH,"High-value transaction (>= BDT 200,000); Unusual transaction amount (robust z-score)",REVIEW_REQUIRED
+2368,2026-10-04T08:34:51,383,Chattogram,431047.4,55,HIGH,"High-value transaction (>= BDT 200,000); Unusual transaction amount (robust z-score)",REVIEW_REQUIRED
+2370,2026-10-18T14:26:04,108,Rajshahi,295331.95,70,CRITICAL,"High-value transaction (>= BDT 200,000); Pending KYC",REVIEW_REQUIRED
+2371,2026-10-19T07:59:00,182,Rajshahi,18968.73,50,HIGH,Frozen account activity,REVIEW_REQUIRED
+2374,2026-10-26T18:00:52,182,Rajshahi,16752.69,50,HIGH,Frozen account activity,REVIEW_REQUIRED
+2428,2026-10-03T04:24:24,312,Khulna,8793.92,50,HIGH,Frozen account activity,REVIEW_REQUIRED
+2430,2026-10-26T21:30:30,93,Chattogram,340646.6,55,HIGH,"High-value transaction (>= BDT 200,000); Unusual transaction amount (robust z-score)",REVIEW_REQUIRED
+2510,2026-10-17T03:52:32,314,Khulna,16807.41,50,HIGH,Frozen account activity,REVIEW_REQUIRED
+2527,2026-10-22T22:49:33,189,Dhaka,1926.32,50,HIGH,Frozen account activity,REVIEW_REQUIRED
+2538,2026-10-18T21:17:39,264,Rajshahi,334849.12,55,HIGH,"High-value transaction (>= BDT 200,000); Unusual transaction amount (robust z-score)",REVIEW_REQUIRED
+2609,2026-10-20T01:41:52,159,Rajshahi,8868.4,50,HIGH,Frozen account activity,REVIEW_REQUIRED
+2630,2026-10-27T15:41:00,13,Rajshahi,208797.88,40,HIGH,"High-value transaction (>= BDT 200,000)",REVIEW_REQUIRED
+2646,2026-10-18T03:28:37,339,Dhaka,37586.74,50,HIGH,Frozen account activity,REVIEW_REQUIRED
+2705,2026-10-27T18:12:07,194,Khulna,283491.18,40,HIGH,"High-value transaction (>= BDT 200,000)",REVIEW_REQUIRED
+2707,2026-10-09T03:20:47,339,Dhaka,7849.78,50,HIGH,Frozen account activity,REVIEW_REQUIRED
+2757,2026-10-27T03:51:24,302,Dhaka,410238.87,55,HIGH,"High-value transaction (>= BDT 200,000); Unusual transaction amount (robust z-score)",REVIEW_REQUIRED
+2791,2026-10-30T19:29:24,363,Rajshahi,2154.98,50,HIGH,Frozen account activity,REVIEW_REQUIRED
+2814,2026-10-04T23:34:35,351,Rajshahi,468551.46,55,HIGH,"High-value transaction (>= BDT 200,000); Unusual transaction amount (robust z-score)",REVIEW_REQUIRED
+2830,2026-10-29T00:44:26,386,Dhaka,298781.29,55,HIGH,"High-value transaction (>= BDT 200,000); Unusual transaction amount (robust z-score)",REVIEW_REQUIRED
+2841,2026-10-08T16:49:47,308,Chattogram,7766.03,50,HIGH,Frozen account activity,REVIEW_REQUIRED
+2850,2026-10-10T21:39:19,5,Dhaka,451551.6,55,HIGH,"High-value transaction (>= BDT 200,000); Unusual transaction amount (robust z-score)",REVIEW_REQUIRED
+2858,2026-10-25T20:31:17,329,Dhaka,368353.6,55,HIGH,"High-value transaction (>= BDT 200,000); Unusual transaction amount (robust z-score)",REVIEW_REQUIRED
+2907,2026-10-02T19:06:50,206,Rajshahi,435388.23,55,HIGH,"High-value transaction (>= BDT 200,000); Unusual transaction amount (robust z-score)",REVIEW_REQUIRED
+2931,2026-10-25T15:14:46,312,Khulna,2164.37,50,HIGH,Frozen account activity,REVIEW_REQUIRED
+2939,2026-10-19T08:13:20,428,Khulna,383591.62,55,HIGH,"High-value transaction (>= BDT 200,000); Unusual transaction amount (robust z-score)",REVIEW_REQUIRED
+2952,2026-10-08T17:29:38,349,Dhaka,416947.55,55,HIGH,"High-value transaction (>= BDT 200,000); Unusual transaction amount (robust z-score)",REVIEW_REQUIRED
+2962,2026-10-08T06:03:26,361,Dhaka,280595.75,40,HIGH,"High-value transaction (>= BDT 200,000)",REVIEW_REQUIRED
+2971,2026-10-11T23:46:07,391,Dhaka,289048.69,40,HIGH,"High-value transaction (>= BDT 200,000)",REVIEW_REQUIRED
+3006,2026-10-27T00:05:07,363,Rajshahi,12584.11,50,HIGH,Frozen account activity,REVIEW_REQUIRED
+3037,2026-10-28T20:28:15,343,Khulna,336260.03,55,HIGH,"High-value transaction (>= BDT 200,000); Unusual transaction amount (robust z-score)",REVIEW_REQUIRED
+3109,2026-10-22T03:51:12,51,Dhaka,405732.27,55,HIGH,"High-value transaction (>= BDT 200,000); Unusual transaction amount (robust z-score)",REVIEW_REQUIRED
+3111,2026-10-07T06:59:16,301,Chattogram,445434.91,55,HIGH,"High-value transaction (>= BDT 200,000); Unusual transaction amount (robust z-score)",REVIEW_REQUIRED
+3119,2026-10-11T16:32:04,312,Khulna,3784.39,50,HIGH,Frozen account activity,REVIEW_REQUIRED
+3155,2026-10-22T13:26:25,289,Dhaka,231255.03,70,CRITICAL,"High-value transaction (>= BDT 200,000); Pending KYC",REVIEW_REQUIRED
+3170,2026-10-19T08:00:00,363,Rajshahi,258762.54,90,CRITICAL,"High-value transaction (>= BDT 200,000); Frozen account activity",REVIEW_REQUIRED
+3179,2026-10-02T16:45:49,47,Khulna,402885.67,55,HIGH,"High-value transaction (>= BDT 200,000); Unusual transaction amount (robust z-score)",REVIEW_REQUIRED
+3218,2026-10-09T03:15:10,47,Khulna,460238.23,55,HIGH,"High-value transaction (>= BDT 200,000); Unusual transaction amount (robust z-score)",REVIEW_REQUIRED
+3230,2026-10-01T11:50:10,312,Khulna,11524.42,50,HIGH,Frozen account activity,REVIEW_REQUIRED
+3251,2026-10-02T07:21:07,363,Rajshahi,1049.38,50,HIGH,Frozen account activity,REVIEW_REQUIRED
+3281,2026-10-06T21:56:24,20,Chattogram,231031.58,40,HIGH,"High-value transaction (>= BDT 200,000)",REVIEW_REQUIRED
+3328,2026-10-06T22:20:25,189,Dhaka,895.16,50,HIGH,Frozen account activity,REVIEW_REQUIRED
+3337,2026-10-21T10:27:41,487,Khulna,493173.04,55,HIGH,"High-value transaction (>= BDT 200,000); Unusual transaction amount (robust z-score)",REVIEW_REQUIRED
+3377,2026-10-28T14:00:21,312,Khulna,13702.63,50,HIGH,Frozen account activity,REVIEW_REQUIRED
+3436,2026-10-23T07:44:33,159,Rajshahi,5742.55,50,HIGH,Frozen account activity,REVIEW_REQUIRED
+3437,2026-10-19T16:33:09,207,Rajshahi,490093.74,55,HIGH,"High-value transaction (>= BDT 200,000); Unusual transaction amount (robust z-score)",REVIEW_REQUIRED
+3462,2026-10-25T05:32:14,347,Chattogram,489923.54,85,CRITICAL,"High-value transaction (>= BDT 200,000); Pending KYC; Unusual transaction amount (robust z-score)",REVIEW_REQUIRED
+3491,2026-10-14T01:17:47,272,Rajshahi,276291.56,40,HIGH,"High-value transaction (>= BDT 200,000)",REVIEW_REQUIRED
+3492,2026-10-16T22:48:14,222,Dhaka,287316.2,40,HIGH,"High-value transaction (>= BDT 200,000)",REVIEW_REQUIRED
+3504,2026-10-22T16:52:31,308,Chattogram,40086.1,50,HIGH,Frozen account activity,REVIEW_REQUIRED
+3519,2026-10-22T16:30:11,221,Khulna,290337.75,40,HIGH,"High-value transaction (>= BDT 200,000)",REVIEW_REQUIRED
+3528,2026-10-26T09:56:09,19,Khulna,285561.26,40,HIGH,"High-value transaction (>= BDT 200,000)",REVIEW_REQUIRED
+3531,2026-10-11T12:58:43,363,Rajshahi,30748.21,50,HIGH,Frozen account activity,REVIEW_REQUIRED
+3580,2026-10-30T08:04:05,182,Rajshahi,1893.01,50,HIGH,Frozen account activity,REVIEW_REQUIRED
+3584,2026-10-10T20:04:59,293,Rajshahi,349238.89,55,HIGH,"High-value transaction (>= BDT 200,000); Unusual transaction amount (robust z-score)",REVIEW_REQUIRED
+3588,2026-10-11T16:38:40,311,Khulna,7258.0,50,HIGH,Frozen account activity,REVIEW_REQUIRED
+3589,2026-10-23T16:30:22,335,Khulna,478720.01,55,HIGH,"High-value transaction (>= BDT 200,000); Unusual transaction amount (robust z-score)",REVIEW_REQUIRED
+3657,2026-10-02T16:16:32,363,Rajshahi,23697.15,50,HIGH,Frozen account activity,REVIEW_REQUIRED
+3666,2026-10-02T06:41:47,345,Chattogram,411495.27,55,HIGH,"High-value transaction (>= BDT 200,000); Unusual transaction amount (robust z-score)",REVIEW_REQUIRED
+3677,2026-10-27T01:42:09,311,Khulna,3382.47,50,HIGH,Frozen account activity,REVIEW_REQUIRED
+3696,2026-10-03T21:43:15,308,Chattogram,27199.78,50,HIGH,Frozen account activity,REVIEW_REQUIRED
+3701,2026-10-04T21:59:30,305,Khulna,281368.17,70,CRITICAL,"High-value transaction (>= BDT 200,000); Pending KYC",REVIEW_REQUIRED
+3740,2026-10-24T02:58:10,314,Khulna,5314.27,50,HIGH,Frozen account activity,REVIEW_REQUIRED
+3804,2026-10-01T16:52:24,189,Dhaka,46782.9,50,HIGH,Frozen account activity,REVIEW_REQUIRED
+3825,2026-10-21T01:18:25,182,Rajshahi,29546.19,50,HIGH,Frozen account activity,REVIEW_REQUIRED
+3838,2026-10-25T05:10:33,385,Chattogram,485265.21,55,HIGH,"High-value transaction (>= BDT 200,000); Unusual transaction amount (robust z-score)",REVIEW_REQUIRED
+3856,2026-10-06T10:57:06,18,Chattogram,454450.91,55,HIGH,"High-value transaction (>= BDT 200,000); Unusual transaction amount (robust z-score)",REVIEW_REQUIRED
+3909,2026-10-03T07:16:42,382,Rajshahi,326215.51,75,CRITICAL,"High-value transaction (>= BDT 200,000); Repeated high-value transactions on same day; Unusual transaction amount (robust z-score)",REVIEW_REQUIRED
+3912,2026-10-21T14:51:31,5,Dhaka,232244.33,40,HIGH,"High-value transaction (>= BDT 200,000)",REVIEW_REQUIRED
+3988,2026-10-04T06:11:08,339,Dhaka,9258.73,50,HIGH,Frozen account activity,REVIEW_REQUIRED
+4006,2026-10-18T16:46:56,289,Dhaka,235106.7,70,CRITICAL,"High-value transaction (>= BDT 200,000); Pending KYC",REVIEW_REQUIRED
+4097,2026-10-16T22:51:26,312,Khulna,7694.63,50,HIGH,Frozen account activity,REVIEW_REQUIRED
+4166,2026-10-27T09:54:30,165,Chattogram,296873.61,55,HIGH,"High-value transaction (>= BDT 200,000); Unusual transaction amount (robust z-score)",REVIEW_REQUIRED
+4169,2026-10-19T14:18:47,314,Khulna,4611.03,50,HIGH,Frozen account activity,REVIEW_REQUIRED
+4194,2026-10-24T05:42:54,363,Rajshahi,10418.06,50,HIGH,Frozen account activity,REVIEW_REQUIRED
+4251,2026-10-29T20:48:57,417,Dhaka,285995.77,40,HIGH,"High-value transaction (>= BDT 200,000)",REVIEW_REQUIRED
+4260,2026-10-03T06:01:27,339,Dhaka,7241.68,50,HIGH,Frozen account activity,REVIEW_REQUIRED
+4271,2026-10-15T00:27:33,58,Chattogram,465909.52,55,HIGH,"High-value transaction (>= BDT 200,000); Unusual transaction amount (robust z-score)",REVIEW_REQUIRED
+4276,2026-10-01T13:54:32,182,Rajshahi,5265.52,50,HIGH,Frozen account activity,REVIEW_REQUIRED
+4283,2026-10-30T11:11:07,159,Rajshahi,30358.19,50,HIGH,Frozen account activity,REVIEW_REQUIRED
+4288,2026-10-09T01:04:26,254,Khulna,372606.04,55,HIGH,"High-value transaction (>= BDT 200,000); Unusual transaction amount (robust z-score)",REVIEW_REQUIRED
+4302,2026-10-09T10:16:51,461,Khulna,440494.3,55,HIGH,"High-value transaction (>= BDT 200,000); Unusual transaction amount (robust z-score)",REVIEW_REQUIRED
+4313,2026-10-30T15:22:16,311,Khulna,6517.86,50,HIGH,Frozen account activity,REVIEW_REQUIRED
+4329,2026-10-10T14:19:03,387,Rajshahi,468098.12,55,HIGH,"High-value transaction (>= BDT 200,000); Unusual transaction amount (robust z-score)",REVIEW_REQUIRED
+4350,2026-10-20T06:21:59,28,Khulna,288455.83,40,HIGH,"High-value transaction (>= BDT 200,000)",REVIEW_REQUIRED
+4358,2026-10-16T09:53:24,159,Rajshahi,14475.82,50,HIGH,Frozen account activity,REVIEW_REQUIRED
+4421,2026-10-22T09:59:07,414,Khulna,335088.89,55,HIGH,"High-value transaction (>= BDT 200,000); Unusual transaction amount (robust z-score)",REVIEW_REQUIRED
+4422,2026-10-27T15:19:13,245,Khulna,493552.23,55,HIGH,"High-value transaction (>= BDT 200,000); Unusual transaction amount (robust z-score)",REVIEW_REQUIRED
+4434,2026-10-19T02:25:11,91,Dhaka,272079.37,40,HIGH,"High-value transaction (>= BDT 200,000)",REVIEW_REQUIRED
+4450,2026-10-29T03:00:57,223,Rajshahi,438064.94,55,HIGH,"High-value transaction (>= BDT 200,000); Unusual transaction amount (robust z-score)",REVIEW_REQUIRED
+4453,2026-10-22T20:36:57,182,Rajshahi,24722.46,50,HIGH,Frozen account activity,REVIEW_REQUIRED
+4465,2026-10-09T12:58:32,311,Khulna,6023.64,50,HIGH,Frozen account activity,REVIEW_REQUIRED
+4484,2026-10-01T23:31:13,147,Khulna,441702.03,55,HIGH,"High-value transaction (>= BDT 200,000); Unusual transaction amount (robust z-score)",REVIEW_REQUIRED
+4497,2026-10-22T05:10:00,311,Khulna,3193.29,50,HIGH,Frozen account activity,REVIEW_REQUIRED
+4511,2026-10-23T04:37:24,42,Dhaka,469736.7,55,HIGH,"High-value transaction (>= BDT 200,000); Unusual transaction amount (robust z-score)",REVIEW_REQUIRED
+4514,2026-10-29T10:57:58,154,Khulna,390527.23,55,HIGH,"High-value transaction (>= BDT 200,000); Unusual transaction amount (robust z-score)",REVIEW_REQUIRED
+4529,2026-10-26T21:47:04,363,Rajshahi,28885.11,50,HIGH,Frozen account activity,REVIEW_REQUIRED
+4530,2026-10-12T21:25:04,290,Khulna,284795.94,40,HIGH,"High-value transaction (>= BDT 200,000)",REVIEW_REQUIRED
+4538,2026-10-05T11:52:22,184,Dhaka,413955.48,55,HIGH,"High-value transaction (>= BDT 200,000); Unusual transaction amount (robust z-score)",REVIEW_REQUIRED
+4567,2026-10-02T04:18:27,328,Khulna,410812.46,55,HIGH,"High-value transaction (>= BDT 200,000); Unusual transaction amount (robust z-score)",REVIEW_REQUIRED
+4585,2026-10-02T18:14:43,310,Khulna,379187.54,55,HIGH,"High-value transaction (>= BDT 200,000); Unusual transaction amount (robust z-score)",REVIEW_REQUIRED
+4637,2026-10-26T18:57:17,46,Chattogram,306538.48,55,HIGH,"High-value transaction (>= BDT 200,000); Unusual transaction amount (robust z-score)",REVIEW_REQUIRED
+4659,2026-10-06T03:18:14,339,Dhaka,4895.37,50,HIGH,Frozen account activity,REVIEW_REQUIRED
+4682,2026-10-15T04:54:38,314,Khulna,9381.94,50,HIGH,Frozen account activity,REVIEW_REQUIRED
+4751,2026-10-08T10:24:26,271,Rajshahi,255697.35,40,HIGH,"High-value transaction (>= BDT 200,000)",REVIEW_REQUIRED
+4758,2026-10-15T21:08:22,498,Rajshahi,330948.03,55,HIGH,"High-value transaction (>= BDT 200,000); Unusual transaction amount (robust z-score)",REVIEW_REQUIRED
+4785,2026-10-16T02:14:04,258,Chattogram,353270.03,55,HIGH,"High-value transaction (>= BDT 200,000); Unusual transaction amount (robust z-score)",REVIEW_REQUIRED
+4812,2026-10-08T04:58:12,325,Chattogram,255695.14,40,HIGH,"High-value transaction (>= BDT 200,000)",REVIEW_REQUIRED
+4828,2026-10-18T12:54:40,311,Khulna,37072.99,50,HIGH,Frozen account activity,REVIEW_REQUIRED
+4870,2026-10-01T19:08:04,281,Chattogram,375337.11,55,HIGH,"High-value transaction (>= BDT 200,000); Unusual transaction amount (robust z-score)",REVIEW_REQUIRED
+4871,2026-10-18T05:30:45,295,Chattogram,455591.67,55,HIGH,"High-value transaction (>= BDT 200,000); Unusual transaction amount (robust z-score)",REVIEW_REQUIRED
+4915,2026-10-02T11:06:24,379,Dhaka,384510.41,55,HIGH,"High-value transaction (>= BDT 200,000); Unusual transaction amount (robust z-score)",REVIEW_REQUIRED
+4924,2026-10-27T01:23:41,49,Khulna,322122.82,55,HIGH,"High-value transaction (>= BDT 200,000); Unusual transaction amount (robust z-score)",REVIEW_REQUIRED
+4933,2026-10-22T08:11:44,182,Rajshahi,4370.73,50,HIGH,Frozen account activity,REVIEW_REQUIRED
+4955,2026-10-05T07:02:51,312,Khulna,14912.06,50,HIGH,Frozen account activity,REVIEW_REQUIRED
+5014,2026-10-15T01:15:38,87,Chattogram,319788.92,55,HIGH,"High-value transaction (>= BDT 200,000); Unusual transaction amount (robust z-score)",REVIEW_REQUIRED
+5079,2026-10-23T01:25:13,182,Rajshahi,9307.15,50,HIGH,Frozen account activity,REVIEW_REQUIRED
+5084,2026-10-20T15:09:47,201,Rajshahi,414801.86,55,HIGH,"High-value transaction (>= BDT 200,000); Unusual transaction amount (robust z-score)",REVIEW_REQUIRED
+5093,2026-10-07T10:06:31,182,Rajshahi,47979.87,50,HIGH,Frozen account activity,REVIEW_REQUIRED
+5098,2026-10-13T02:11:49,2,Chattogram,245667.74,40,HIGH,"High-value transaction (>= BDT 200,000)",REVIEW_REQUIRED
+5162,2026-10-15T08:51:00,456,Khulna,266871.12,40,HIGH,"High-value transaction (>= BDT 200,000)",REVIEW_REQUIRED
+5175,2026-10-01T03:00:16,189,Dhaka,13116.84,50,HIGH,Frozen account activity,REVIEW_REQUIRED
+5177,2026-10-16T01:35:37,20,Chattogram,491726.19,55,HIGH,"High-value transaction (>= BDT 200,000); Unusual transaction amount (robust z-score)",REVIEW_REQUIRED
+5191,2026-10-10T04:21:30,356,Rajshahi,498985.36,55,HIGH,"High-value transaction (>= BDT 200,000); Unusual transaction amount (robust z-score)",REVIEW_REQUIRED
+5316,2026-10-14T05:43:26,164,Khulna,425702.24,55,HIGH,"High-value transaction (>= BDT 200,000); Unusual transaction amount (robust z-score)",REVIEW_REQUIRED
+5317,2026-10-07T04:01:41,41,Dhaka,381642.48,55,HIGH,"High-value transaction (>= BDT 200,000); Unusual transaction amount (robust z-score)",REVIEW_REQUIRED
+5383,2026-10-15T12:49:52,403,Dhaka,485594.69,55,HIGH,"High-value transaction (>= BDT 200,000); Unusual transaction amount (robust z-score)",REVIEW_REQUIRED
+5396,2026-10-14T05:32:45,308,Chattogram,8280.83,50,HIGH,Frozen account activity,REVIEW_REQUIRED
+5405,2026-10-04T17:39:43,182,Rajshahi,10706.96,50,HIGH,Frozen account activity,REVIEW_REQUIRED
+5461,2026-10-08T11:41:31,27,Chattogram,211117.24,40,HIGH,"High-value transaction (>= BDT 200,000)",REVIEW_REQUIRED
+5485,2026-10-21T17:55:14,109,Rajshahi,370487.12,55,HIGH,"High-value transaction (>= BDT 200,000); Unusual transaction amount (robust z-score)",REVIEW_REQUIRED
+5492,2026-10-04T11:07:31,196,Khulna,473122.34,85,CRITICAL,"High-value transaction (>= BDT 200,000); Pending KYC; Unusual transaction amount (robust z-score)",REVIEW_REQUIRED
+5536,2026-10-15T07:48:48,355,Rajshahi,290062.02,40,HIGH,"High-value transaction (>= BDT 200,000)",REVIEW_REQUIRED
+5614,2026-10-17T12:53:20,363,Rajshahi,17695.19,50,HIGH,Frozen account activity,REVIEW_REQUIRED
+5622,2026-10-27T11:05:09,311,Khulna,7988.16,50,HIGH,Frozen account activity,REVIEW_REQUIRED
+5649,2026-10-26T09:48:05,339,Dhaka,78277.15,50,HIGH,Frozen account activity,REVIEW_REQUIRED
+5658,2026-10-04T09:59:24,265,Khulna,207589.19,40,HIGH,"High-value transaction (>= BDT 200,000)",REVIEW_REQUIRED
+5671,2026-10-27T18:41:10,314,Khulna,33038.39,50,HIGH,Frozen account activity,REVIEW_REQUIRED
+5674,2026-10-03T07:06:20,15,Dhaka,394617.64,55,HIGH,"High-value transaction (>= BDT 200,000); Unusual transaction amount (robust z-score)",REVIEW_REQUIRED
+5719,2026-10-29T20:39:32,422,Rajshahi,293519.11,40,HIGH,"High-value transaction (>= BDT 200,000)",REVIEW_REQUIRED
+5751,2026-10-14T01:04:42,182,Rajshahi,5120.78,50,HIGH,Frozen account activity,REVIEW_REQUIRED
+5754,2026-10-19T11:50:39,323,Dhaka,402771.81,55,HIGH,"High-value transaction (>= BDT 200,000); Unusual transaction amount (robust z-score)",REVIEW_REQUIRED
+5764,2026-10-07T23:39:15,339,Dhaka,6925.79,50,HIGH,Frozen account activity,REVIEW_REQUIRED
+5765,2026-10-10T04:15:42,312,Khulna,5102.72,50,HIGH,Frozen account activity,REVIEW_REQUIRED
+5779,2026-10-10T21:26:44,459,Rajshahi,316782.89,85,CRITICAL,"High-value transaction (>= BDT 200,000); Pending KYC; Unusual transaction amount (robust z-score)",REVIEW_REQUIRED
+5802,2026-10-21T12:12:46,182,Rajshahi,60605.71,50,HIGH,Frozen account activity,REVIEW_REQUIRED
+5815,2026-10-02T03:32:26,102,Rajshahi,358350.9,55,HIGH,"High-value transaction (>= BDT 200,000); Unusual transaction amount (robust z-score)",REVIEW_REQUIRED
+5847,2026-10-29T07:08:05,363,Rajshahi,11845.46,50,HIGH,Frozen account activity,REVIEW_REQUIRED
+5861,2026-10-28T12:53:28,427,Rajshahi,450227.49,55,HIGH,"High-value transaction (>= BDT 200,000); Unusual transaction amount (robust z-score)",REVIEW_REQUIRED
+5902,2026-10-03T13:49:33,414,Khulna,429875.93,55,HIGH,"High-value transaction (>= BDT 200,000); Unusual transaction amount (robust z-score)",REVIEW_REQUIRED
+5936,2026-10-08T12:08:18,311,Khulna,6414.32,50,HIGH,Frozen account activity,REVIEW_REQUIRED
+5953,2026-10-25T18:52:05,230,Dhaka,342410.77,55,HIGH,"High-value transaction (>= BDT 200,000); Unusual transaction amount (robust z-score)",REVIEW_REQUIRED
+6009,2026-10-04T19:28:14,415,Chattogram,251742.19,40,HIGH,"High-value transaction (>= BDT 200,000)",REVIEW_REQUIRED
+6029,2026-10-08T05:59:27,314,Khulna,18055.52,50,HIGH,Frozen account activity,REVIEW_REQUIRED
+6031,2026-10-02T01:36:17,182,Rajshahi,42427.45,50,HIGH,Frozen account activity,REVIEW_REQUIRED
+6049,2026-10-07T06:43:58,298,Dhaka,411020.32,55,HIGH,"High-value transaction (>= BDT 200,000); Unusual transaction amount (robust z-score)",REVIEW_REQUIRED
+6079,2026-10-12T12:53:13,391,Dhaka,369177.82,55,HIGH,"High-value transaction (>= BDT 200,000); Unusual transaction amount (robust z-score)",REVIEW_REQUIRED
+6096,2026-10-01T16:26:03,94,Khulna,476320.1,55,HIGH,"High-value transaction (>= BDT 200,000); Unusual transaction amount (robust z-score)",REVIEW_REQUIRED
+6134,2026-10-11T02:20:10,429,Rajshahi,323977.22,55,HIGH,"High-value transaction (>= BDT 200,000); Unusual transaction amount (robust z-score)",REVIEW_REQUIRED
+6157,2026-10-29T01:41:00,401,Dhaka,232586.18,40,HIGH,"High-value transaction (>= BDT 200,000)",REVIEW_REQUIRED
+6165,2026-10-15T22:01:43,394,Khulna,353669.79,55,HIGH,"High-value transaction (>= BDT 200,000); Unusual transaction amount (robust z-score)",REVIEW_REQUIRED
+6167,2026-10-29T06:27:06,324,Dhaka,409630.83,55,HIGH,"High-value transaction (>= BDT 200,000); Unusual transaction amount (robust z-score)",REVIEW_REQUIRED
+6190,2026-10-27T04:59:24,11,Khulna,404900.21,55,HIGH,"High-value transaction (>= BDT 200,000); Unusual transaction amount (robust z-score)",REVIEW_REQUIRED
+6213,2026-10-06T10:21:03,189,Dhaka,2104.56,50,HIGH,Frozen account activity,REVIEW_REQUIRED
+6294,2026-10-04T00:44:04,182,Rajshahi,13673.66,50,HIGH,Frozen account activity,REVIEW_REQUIRED
+6295,2026-10-10T20:14:08,189,Dhaka,3685.41,50,HIGH,Frozen account activity,REVIEW_REQUIRED
+6308,2026-10-10T22:38:53,20,Chattogram,335612.21,55,HIGH,"High-value transaction (>= BDT 200,000); Unusual transaction amount (robust z-score)",REVIEW_REQUIRED
+6311,2026-10-22T01:00:46,363,Rajshahi,38835.12,50,HIGH,Frozen account activity,REVIEW_REQUIRED
+6354,2026-10-02T00:53:50,334,Rajshahi,469524.9,55,HIGH,"High-value transaction (>= BDT 200,000); Unusual transaction amount (robust z-score)",REVIEW_REQUIRED
+6389,2026-10-03T07:33:57,314,Khulna,8455.64,50,HIGH,Frozen account activity,REVIEW_REQUIRED
+6421,2026-10-17T20:19:10,363,Rajshahi,9712.23,50,HIGH,Frozen account activity,REVIEW_REQUIRED
+6462,2026-10-25T14:03:04,302,Dhaka,446499.52,55,HIGH,"High-value transaction (>= BDT 200,000); Unusual transaction amount (robust z-score)",REVIEW_REQUIRED
+6464,2026-10-30T11:03:27,159,Rajshahi,16016.71,50,HIGH,Frozen account activity,REVIEW_REQUIRED
+6472,2026-10-10T15:32:17,314,Khulna,33750.12,50,HIGH,Frozen account activity,REVIEW_REQUIRED
+6522,2026-10-08T05:49:19,470,Rajshahi,495675.05,55,HIGH,"High-value transaction (>= BDT 200,000); Unusual transaction amount (robust z-score)",REVIEW_REQUIRED
+6541,2026-10-03T21:11:21,79,Chattogram,230347.49,40,HIGH,"High-value transaction (>= BDT 200,000)",REVIEW_REQUIRED
+6590,2026-10-29T06:28:13,44,Dhaka,357540.03,55,HIGH,"High-value transaction (>= BDT 200,000); Unusual transaction amount (robust z-score)",REVIEW_REQUIRED
+6608,2026-10-28T12:52:58,312,Khulna,10313.39,50,HIGH,Frozen account activity,REVIEW_REQUIRED
+6614,2026-10-29T05:13:04,485,Rajshahi,423468.83,85,CRITICAL,"High-value transaction (>= BDT 200,000); Pending KYC; Unusual transaction amount (robust z-score)",REVIEW_REQUIRED
+6649,2026-10-19T12:53:54,41,Dhaka,391972.3,55,HIGH,"High-value transaction (>= BDT 200,000); Unusual transaction amount (robust z-score)",REVIEW_REQUIRED
+6665,2026-10-17T11:45:03,201,Rajshahi,366864.39,55,HIGH,"High-value transaction (>= BDT 200,000); Unusual transaction amount (robust z-score)",REVIEW_REQUIRED
+6677,2026-10-24T10:19:24,363,Rajshahi,3395.44,50,HIGH,Frozen account activity,REVIEW_REQUIRED
+6682,2026-10-21T21:31:31,363,Rajshahi,18249.43,50,HIGH,Frozen account activity,REVIEW_REQUIRED
+6703,2026-10-14T22:55:58,199,Dhaka,214147.74,40,HIGH,"High-value transaction (>= BDT 200,000)",REVIEW_REQUIRED
+6809,2026-10-11T21:50:32,372,Khulna,398931.88,55,HIGH,"High-value transaction (>= BDT 200,000); Unusual transaction amount (robust z-score)",REVIEW_REQUIRED
+6820,2026-10-19T13:47:34,314,Khulna,10195.16,50,HIGH,Frozen account activity,REVIEW_REQUIRED
+6828,2026-10-25T14:14:44,486,Dhaka,320200.27,55,HIGH,"High-value transaction (>= BDT 200,000); Unusual transaction amount (robust z-score)",REVIEW_REQUIRED
+6887,2026-10-26T23:39:43,189,Dhaka,1693.9,50,HIGH,Frozen account activity,REVIEW_REQUIRED
+6888,2026-10-17T12:33:13,102,Rajshahi,301421.93,55,HIGH,"High-value transaction (>= BDT 200,000); Unusual transaction amount (robust z-score)",REVIEW_REQUIRED
+6906,2026-10-22T14:57:17,159,Rajshahi,7193.02,50,HIGH,Frozen account activity,REVIEW_REQUIRED
+6939,2026-10-28T05:13:54,7,Dhaka,215899.73,40,HIGH,"High-value transaction (>= BDT 200,000)",REVIEW_REQUIRED
+6961,2026-10-23T21:28:39,230,Dhaka,251000.45,40,HIGH,"High-value transaction (>= BDT 200,000)",REVIEW_REQUIRED
+6994,2026-10-19T16:27:09,220,Khulna,223055.28,40,HIGH,"High-value transaction (>= BDT 200,000)",REVIEW_REQUIRED
+7001,2026-10-14T05:27:56,312,Khulna,13619.82,50,HIGH,Frozen account activity,REVIEW_REQUIRED
+7014,2026-10-13T16:23:54,215,Dhaka,241604.94,40,HIGH,"High-value transaction (>= BDT 200,000)",REVIEW_REQUIRED
+7046,2026-10-14T02:59:05,182,Rajshahi,22277.07,50,HIGH,Frozen account activity,REVIEW_REQUIRED
+7050,2026-10-01T18:08:09,432,Khulna,485228.96,55,HIGH,"High-value transaction (>= BDT 200,000); Unusual transaction amount (robust z-score)",REVIEW_REQUIRED
+7055,2026-10-10T04:28:42,56,Khulna,422973.12,55,HIGH,"High-value transaction (>= BDT 200,000); Unusual transaction amount (robust z-score)",REVIEW_REQUIRED
+7059,2026-10-17T01:55:11,296,Rajshahi,238282.46,40,HIGH,"High-value transaction (>= BDT 200,000)",REVIEW_REQUIRED
+7062,2026-10-08T14:48:58,312,Khulna,12778.14,50,HIGH,Frozen account activity,REVIEW_REQUIRED
+7069,2026-10-02T22:02:17,113,Khulna,311298.38,55,HIGH,"High-value transaction (>= BDT 200,000); Unusual transaction amount (robust z-score)",REVIEW_REQUIRED
+7094,2026-10-07T17:09:05,314,Khulna,6253.61,50,HIGH,Frozen account activity,REVIEW_REQUIRED
+7144,2026-10-20T12:11:31,189,Dhaka,6446.16,50,HIGH,Frozen account activity,REVIEW_REQUIRED
+7178,2026-10-25T05:20:34,339,Dhaka,67337.55,50,HIGH,Frozen account activity,REVIEW_REQUIRED
+7199,2026-10-15T12:36:57,308,Chattogram,3851.87,50,HIGH,Frozen account activity,REVIEW_REQUIRED
+7235,2026-10-03T11:32:34,382,Rajshahi,476832.33,75,CRITICAL,"High-value transaction (>= BDT 200,000); Repeated high-value transactions on same day; Unusual transaction amount (robust z-score)",REVIEW_REQUIRED
+7240,2026-10-06T00:28:40,402,Rajshahi,428405.35,55,HIGH,"High-value transaction (>= BDT 200,000); Unusual transaction amount (robust z-score)",REVIEW_REQUIRED
+7248,2026-10-01T07:40:30,428,Khulna,287691.4,40,HIGH,"High-value transaction (>= BDT 200,000)",REVIEW_REQUIRED
+7286,2026-10-28T02:55:52,327,Chattogram,465066.8,85,CRITICAL,"High-value transaction (>= BDT 200,000); Pending KYC; Unusual transaction amount (robust z-score)",REVIEW_REQUIRED
+7323,2026-10-09T23:52:02,159,Rajshahi,14347.0,50,HIGH,Frozen account activity,REVIEW_REQUIRED
+7333,2026-10-25T15:06:15,314,Khulna,18122.89,50,HIGH,Frozen account activity,REVIEW_REQUIRED
+7334,2026-10-01T09:09:34,358,Chattogram,377619.24,55,HIGH,"High-value transaction (>= BDT 200,000); Unusual transaction amount (robust z-score)",REVIEW_REQUIRED
+7354,2026-10-24T04:32:43,182,Rajshahi,1280.79,50,HIGH,Frozen account activity,REVIEW_REQUIRED
+7388,2026-10-07T08:46:26,466,Dhaka,277562.25,70,CRITICAL,"High-value transaction (>= BDT 200,000); Pending KYC",REVIEW_REQUIRED
+7428,2026-10-30T15:19:48,335,Khulna,331061.51,55,HIGH,"High-value transaction (>= BDT 200,000); Unusual transaction amount (robust z-score)",REVIEW_REQUIRED
+7518,2026-10-21T03:38:08,339,Dhaka,18678.79,50,HIGH,Frozen account activity,REVIEW_REQUIRED
+7522,2026-10-02T03:10:29,363,Rajshahi,6121.6,50,HIGH,Frozen account activity,REVIEW_REQUIRED
+7529,2026-10-03T15:22:23,435,Chattogram,391486.04,55,HIGH,"High-value transaction (>= BDT 200,000); Unusual transaction amount (robust z-score)",REVIEW_REQUIRED
+7580,2026-10-24T11:20:17,363,Rajshahi,14001.44,50,HIGH,Frozen account activity,REVIEW_REQUIRED
+7612,2026-10-23T11:45:07,189,Dhaka,10868.37,50,HIGH,Frozen account activity,REVIEW_REQUIRED
+7624,2026-10-04T13:19:53,159,Rajshahi,551.19,50,HIGH,Frozen account activity,REVIEW_REQUIRED
+7728,2026-10-13T17:03:28,159,Rajshahi,5590.89,50,HIGH,Frozen account activity,REVIEW_REQUIRED
+7734,2026-10-20T14:04:55,103,Khulna,384617.44,75,CRITICAL,"High-value transaction (>= BDT 200,000); Repeated high-value transactions on same day; Unusual transaction amount (robust z-score)",REVIEW_REQUIRED
+7759,2026-10-09T05:13:17,440,Khulna,416959.67,55,HIGH,"High-value transaction (>= BDT 200,000); Unusual transaction amount (robust z-score)",REVIEW_REQUIRED
+7762,2026-10-10T15:46:32,327,Chattogram,478795.96,85,CRITICAL,"High-value transaction (>= BDT 200,000); Pending KYC; Unusual transaction amount (robust z-score)",REVIEW_REQUIRED
+7779,2026-10-22T01:38:31,329,Dhaka,347416.19,55,HIGH,"High-value transaction (>= BDT 200,000); Unusual transaction amount (robust z-score)",REVIEW_REQUIRED
+7788,2026-10-19T02:41:35,339,Dhaka,15211.28,50,HIGH,Frozen account activity,REVIEW_REQUIRED
+7822,2026-10-16T19:42:55,312,Khulna,32846.05,50,HIGH,Frozen account activity,REVIEW_REQUIRED
+7847,2026-10-02T10:01:20,69,Chattogram,336927.62,55,HIGH,"High-value transaction (>= BDT 200,000); Unusual transaction amount (robust z-score)",REVIEW_REQUIRED
+7849,2026-10-02T20:40:18,333,Dhaka,204954.95,40,HIGH,"High-value transaction (>= BDT 200,000)",REVIEW_REQUIRED
+7957,2026-10-16T06:36:35,314,Khulna,7547.5,50,HIGH,Frozen account activity,REVIEW_REQUIRED
+7989,2026-10-07T02:24:13,137,Khulna,332147.29,55,HIGH,"High-value transaction (>= BDT 200,000); Unusual transaction amount (robust z-score)",REVIEW_REQUIRED
+7990,2026-10-30T22:48:56,206,Rajshahi,214673.62,40,HIGH,"High-value transaction (>= BDT 200,000)",REVIEW_REQUIRED
+7994,2026-10-26T10:25:43,311,Khulna,25146.46,50,HIGH,Frozen account activity,REVIEW_REQUIRED
+8054,2026-10-29T02:08:16,143,Dhaka,211988.64,40,HIGH,"High-value transaction (>= BDT 200,000)",REVIEW_REQUIRED
+8074,2026-10-25T09:37:15,419,Dhaka,211822.8,40,HIGH,"High-value transaction (>= BDT 200,000)",REVIEW_REQUIRED
+8093,2026-10-03T03:46:40,182,Rajshahi,1259.84,50,HIGH,Frozen account activity,REVIEW_REQUIRED
+8095,2026-10-06T21:44:17,309,Chattogram,218470.48,40,HIGH,"High-value transaction (>= BDT 200,000)",REVIEW_REQUIRED
+8098,2026-10-27T12:26:40,141,Rajshahi,245041.7,40,HIGH,"High-value transaction (>= BDT 200,000)",REVIEW_REQUIRED
+8106,2026-10-25T18:25:58,309,Chattogram,489222.19,55,HIGH,"High-value transaction (>= BDT 200,000); Unusual transaction amount (robust z-score)",REVIEW_REQUIRED
+8131,2026-10-06T05:50:09,476,Khulna,280825.76,40,HIGH,"High-value transaction (>= BDT 200,000)",REVIEW_REQUIRED
+8137,2026-10-08T20:07:34,59,Chattogram,290593.19,40,HIGH,"High-value transaction (>= BDT 200,000)",REVIEW_REQUIRED
+8171,2026-10-25T18:41:53,154,Khulna,213947.98,40,HIGH,"High-value transaction (>= BDT 200,000)",REVIEW_REQUIRED
+8211,2026-10-17T00:15:59,127,Khulna,346342.69,55,HIGH,"High-value transaction (>= BDT 200,000); Unusual transaction amount (robust z-score)",REVIEW_REQUIRED
+8216,2026-10-25T03:50:28,363,Rajshahi,24160.29,50,HIGH,Frozen account activity,REVIEW_REQUIRED
+8241,2026-10-04T11:04:33,182,Rajshahi,26938.58,50,HIGH,Frozen account activity,REVIEW_REQUIRED
+8352,2026-10-08T05:37:26,69,Chattogram,241989.41,40,HIGH,"High-value transaction (>= BDT 200,000)",REVIEW_REQUIRED
+8358,2026-10-13T02:57:49,311,Khulna,37293.8,50,HIGH,Frozen account activity,REVIEW_REQUIRED
+8370,2026-10-06T00:07:21,434,Khulna,203527.87,40,HIGH,"High-value transaction (>= BDT 200,000)",REVIEW_REQUIRED
+8391,2026-10-09T19:25:27,278,Khulna,227834.69,40,HIGH,"High-value transaction (>= BDT 200,000)",REVIEW_REQUIRED
+8394,2026-10-11T07:28:32,442,Chattogram,396927.47,55,HIGH,"High-value transaction (>= BDT 200,000); Unusual transaction amount (robust z-score)",REVIEW_REQUIRED
+8450,2026-10-05T13:23:18,427,Rajshahi,417167.75,55,HIGH,"High-value transaction (>= BDT 200,000); Unusual transaction amount (robust z-score)",REVIEW_REQUIRED
+8453,2026-10-30T10:07:05,339,Dhaka,14780.01,50,HIGH,Frozen account activity,REVIEW_REQUIRED
+8460,2026-10-26T17:40:11,216,Khulna,328284.58,85,CRITICAL,"High-value transaction (>= BDT 200,000); Pending KYC; Unusual transaction amount (robust z-score)",REVIEW_REQUIRED
+8515,2026-10-15T07:14:08,189,Dhaka,2725.57,50,HIGH,Frozen account activity,REVIEW_REQUIRED
+8573,2026-10-23T23:13:25,314,Khulna,14858.89,50,HIGH,Frozen account activity,REVIEW_REQUIRED
+8629,2026-10-16T06:45:45,237,Chattogram,350160.36,55,HIGH,"High-value transaction (>= BDT 200,000); Unusual transaction amount (robust z-score)",REVIEW_REQUIRED
+8651,2026-10-30T14:21:54,338,Dhaka,495089.89,55,HIGH,"High-value transaction (>= BDT 200,000); Unusual transaction amount (robust z-score)",REVIEW_REQUIRED
+8679,2026-10-16T14:53:46,182,Rajshahi,4971.17,50,HIGH,Frozen account activity,REVIEW_REQUIRED
+8683,2026-10-25T23:05:30,166,Dhaka,235200.75,40,HIGH,"High-value transaction (>= BDT 200,000)",REVIEW_REQUIRED
+8686,2026-10-06T09:22:17,168,Rajshahi,451834.2,55,HIGH,"High-value transaction (>= BDT 200,000); Unusual transaction amount (robust z-score)",REVIEW_REQUIRED
+8702,2026-10-02T14:36:27,59,Chattogram,494531.29,55,HIGH,"High-value transaction (>= BDT 200,000); Unusual transaction amount (robust z-score)",REVIEW_REQUIRED
+8703,2026-10-08T08:55:10,459,Rajshahi,242638.18,70,CRITICAL,"High-value transaction (>= BDT 200,000); Pending KYC",REVIEW_REQUIRED
+8710,2026-10-09T08:29:13,158,Rajshahi,224242.82,40,HIGH,"High-value transaction (>= BDT 200,000)",REVIEW_REQUIRED
+8715,2026-10-30T03:48:45,184,Dhaka,456932.1,55,HIGH,"High-value transaction (>= BDT 200,000); Unusual transaction amount (robust z-score)",REVIEW_REQUIRED
+8719,2026-10-15T18:31:40,311,Khulna,3335.8,50,HIGH,Frozen account activity,REVIEW_REQUIRED
+8764,2026-10-19T01:27:56,238,Chattogram,270803.31,40,HIGH,"High-value transaction (>= BDT 200,000)",REVIEW_REQUIRED
+8774,2026-10-21T14:53:25,314,Khulna,27024.65,50,HIGH,Frozen account activity,REVIEW_REQUIRED
+8829,2026-10-30T15:14:36,98,Khulna,297752.09,55,HIGH,"High-value transaction (>= BDT 200,000); Unusual transaction amount (robust z-score)",REVIEW_REQUIRED
+8864,2026-10-30T15:46:43,305,Khulna,430158.31,85,CRITICAL,"High-value transaction (>= BDT 200,000); Pending KYC; Unusual transaction amount (robust z-score)",REVIEW_REQUIRED
+8878,2026-10-18T06:33:06,124,Dhaka,472545.36,55,HIGH,"High-value transaction (>= BDT 200,000); Unusual transaction amount (robust z-score)",REVIEW_REQUIRED
+8985,2026-10-14T22:06:53,356,Rajshahi,373664.98,55,HIGH,"High-value transaction (>= BDT 200,000); Unusual transaction amount (robust z-score)",REVIEW_REQUIRED
+9051,2026-10-02T03:14:27,341,Dhaka,245156.03,40,HIGH,"High-value transaction (>= BDT 200,000)",REVIEW_REQUIRED
+9052,2026-10-10T06:49:51,456,Khulna,213926.04,40,HIGH,"High-value transaction (>= BDT 200,000)",REVIEW_REQUIRED
+9060,2026-10-27T03:20:58,174,Khulna,397355.3,55,HIGH,"High-value transaction (>= BDT 200,000); Unusual transaction amount (robust z-score)",REVIEW_REQUIRED
+9082,2026-10-03T14:18:11,256,Rajshahi,368469.2,85,CRITICAL,"High-value transaction (>= BDT 200,000); Pending KYC; Unusual transaction amount (robust z-score)",REVIEW_REQUIRED
+9112,2026-10-29T20:25:18,494,Khulna,257073.97,40,HIGH,"High-value transaction (>= BDT 200,000)",REVIEW_REQUIRED
+9131,2026-10-29T10:21:42,314,Khulna,9860.43,50,HIGH,Frozen account activity,REVIEW_REQUIRED
+9132,2026-10-25T08:10:59,189,Dhaka,3616.87,50,HIGH,Frozen account activity,REVIEW_REQUIRED
+9146,2026-10-30T09:30:57,308,Chattogram,5877.82,50,HIGH,Frozen account activity,REVIEW_REQUIRED
+9147,2026-10-04T06:34:44,189,Dhaka,3111.85,50,HIGH,Frozen account activity,REVIEW_REQUIRED
+9175,2026-10-05T22:02:52,113,Khulna,273245.66,40,HIGH,"High-value transaction (>= BDT 200,000)",REVIEW_REQUIRED
+9183,2026-10-02T07:07:28,404,Chattogram,440448.52,55,HIGH,"High-value transaction (>= BDT 200,000); Unusual transaction amount (robust z-score)",REVIEW_REQUIRED
+9191,2026-10-23T14:24:48,311,Khulna,11409.31,50,HIGH,Frozen account activity,REVIEW_REQUIRED
+9222,2026-10-20T13:26:39,498,Rajshahi,298292.09,55,HIGH,"High-value transaction (>= BDT 200,000); Unusual transaction amount (robust z-score)",REVIEW_REQUIRED
+9370,2026-10-19T23:00:45,314,Khulna,8983.87,50,HIGH,Frozen account activity,REVIEW_REQUIRED
+9397,2026-10-19T06:50:15,476,Khulna,491836.27,55,HIGH,"High-value transaction (>= BDT 200,000); Unusual transaction amount (robust z-score)",REVIEW_REQUIRED
+9430,2026-10-18T22:46:48,311,Khulna,6310.6,50,HIGH,Frozen account activity,REVIEW_REQUIRED
+9433,2026-10-20T21:37:11,339,Dhaka,7068.16,50,HIGH,Frozen account activity,REVIEW_REQUIRED
+9477,2026-10-22T11:10:55,446,Rajshahi,418374.09,55,HIGH,"High-value transaction (>= BDT 200,000); Unusual transaction amount (robust z-score)",REVIEW_REQUIRED
+9515,2026-10-15T02:25:26,223,Rajshahi,461191.63,55,HIGH,"High-value transaction (>= BDT 200,000); Unusual transaction amount (robust z-score)",REVIEW_REQUIRED
+9531,2026-10-04T00:36:19,290,Khulna,238400.78,40,HIGH,"High-value transaction (>= BDT 200,000)",REVIEW_REQUIRED
+9534,2026-10-02T16:44:00,314,Khulna,2868.67,50,HIGH,Frozen account activity,REVIEW_REQUIRED
+9542,2026-10-24T03:14:41,189,Dhaka,1992.85,50,HIGH,Frozen account activity,REVIEW_REQUIRED
+9550,2026-10-05T12:06:48,470,Rajshahi,352710.89,55,HIGH,"High-value transaction (>= BDT 200,000); Unusual transaction amount (robust z-score)",REVIEW_REQUIRED
+9571,2026-10-20T17:46:25,314,Khulna,7567.43,50,HIGH,Frozen account activity,REVIEW_REQUIRED
+9572,2026-10-28T20:20:41,324,Dhaka,368092.39,55,HIGH,"High-value transaction (>= BDT 200,000); Unusual transaction amount (robust z-score)",REVIEW_REQUIRED
+9613,2026-10-14T09:19:41,161,Khulna,206955.51,40,HIGH,"High-value transaction (>= BDT 200,000)",REVIEW_REQUIRED
+9634,2026-10-21T13:03:58,182,Rajshahi,8372.17,50,HIGH,Frozen account activity,REVIEW_REQUIRED
+9671,2026-10-02T08:14:06,222,Dhaka,260162.84,40,HIGH,"High-value transaction (>= BDT 200,000)",REVIEW_REQUIRED
+9708,2026-10-25T21:27:37,308,Chattogram,7119.54,50,HIGH,Frozen account activity,REVIEW_REQUIRED
+9713,2026-10-22T18:27:12,314,Khulna,1265.94,50,HIGH,Frozen account activity,REVIEW_REQUIRED
+9715,2026-10-17T12:43:34,225,Dhaka,260488.11,40,HIGH,"High-value transaction (>= BDT 200,000)",REVIEW_REQUIRED
+9741,2026-10-23T10:27:24,314,Khulna,16468.24,50,HIGH,Frozen account activity,REVIEW_REQUIRED
+9775,2026-10-24T20:57:31,314,Khulna,9128.41,50,HIGH,Frozen account activity,REVIEW_REQUIRED
+9779,2026-10-16T14:15:45,203,Rajshahi,251432.48,40,HIGH,"High-value transaction (>= BDT 200,000)",REVIEW_REQUIRED
+9788,2026-10-03T03:40:52,363,Rajshahi,26985.87,50,HIGH,Frozen account activity,REVIEW_REQUIRED
+9811,2026-10-24T14:46:01,339,Dhaka,35748.03,50,HIGH,Frozen account activity,REVIEW_REQUIRED
+9823,2026-10-12T15:22:26,308,Chattogram,19553.72,50,HIGH,Frozen account activity,REVIEW_REQUIRED
+9828,2026-10-18T17:13:00,496,Khulna,468330.04,55,HIGH,"High-value transaction (>= BDT 200,000); Unusual transaction amount (robust z-score)",REVIEW_REQUIRED
+9846,2026-10-14T03:52:10,277,Rajshahi,392365.78,55,HIGH,"High-value transaction (>= BDT 200,000); Unusual transaction amount (robust z-score)",REVIEW_REQUIRED
+9889,2026-10-12T13:51:05,466,Dhaka,470630.38,85,CRITICAL,"High-value transaction (>= BDT 200,000); Pending KYC; Unusual transaction amount (robust z-score)",REVIEW_REQUIRED
+9906,2026-10-22T12:58:11,308,Chattogram,21301.18,50,HIGH,Frozen account activity,REVIEW_REQUIRED
+9908,2026-10-07T07:38:34,363,Rajshahi,23317.16,50,HIGH,Frozen account activity,REVIEW_REQUIRED
+9911,2026-10-28T21:16:47,187,Dhaka,221138.0,40,HIGH,"High-value transaction (>= BDT 200,000)",REVIEW_REQUIRED
+9923,2026-10-05T05:40:52,189,Dhaka,43394.3,50,HIGH,Frozen account activity,REVIEW_REQUIRED
