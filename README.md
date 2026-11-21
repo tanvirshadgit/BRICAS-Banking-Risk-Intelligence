@@ -117,3 +117,14 @@ The rules, thresholds, severity labels, and statistical anomalies are illustrati
 **Tanvir Ahmed Khan** — independent portfolio project in data analytics, quality assurance, and risk monitoring.
 
 [GitHub profile](https://github.com/tanvirshadgit)
+
+## Executive Dashboard Preview
+
+The BRICAS Executive Dashboard provides an interactive view of
+synthetic banking transaction monitoring, risk alerts, statistical
+anomalies, regional risk indicators, and daily activity.
+
+![BRICAS Executive Dashboard](docs/screenshots/executive-dashboard.png)
+
+**Note:** All data is synthetic. Risk alerts are illustrative
+indicators requiring human review, not confirmed fraud.
